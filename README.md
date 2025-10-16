@@ -1,3 +1,11 @@
+Name : More Pranjali Santram
+Internship ID : ZGFQWQYRZ85F
+Domain : Python-Development
+
+
+
+
+
 # Image Filter App - Original vs Edited
 
 A simple Python application that allows users to upload an image, apply filters, and preview the original and edited images side by side. Users can save the filtered image in full resolution.
